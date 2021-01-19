@@ -64,7 +64,7 @@ iframe{display:block;max-width:100%;}
 .site-services-icon{bottom:0;color:#333333;height:40px;left:0;line-height:35px;position:absolute;text-align:center;width:40px;z-index:1;background-color:#222222;}
 .site-services-overlay .text{color:#ffffff;letter-spacing:1px;line-height:25px;}
 .site-read-more{float:right;margin-top:20px;color:#ffffff;font-weight:600;letter-spacing:1px;}
-.site-services-title h3{font-size:1.3rem;text-transform:uppercase;font-weight:600;letter-spacing:1px;}
+.site-services-title h3{font-size:1.3rem;font-weight:600;letter-spacing:1px;}
 .site-services-block:hover .site-services-title h3{color:#0097d7;}
 .site-read-more:hover{color:#ffffff;}
 /*End Provide Services CSS*/
@@ -214,6 +214,7 @@ iframe{display:block;max-width:100%;}
 }
 .terms-text p {
     line-height: 27px;
+    margin-bottom: 20px;
 }
 .inner-terms-text {
     padding-left: 30px;
